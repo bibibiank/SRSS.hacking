@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "57b78a9ddc510368",
+    "id": "d345fd8661710fec",
     "type": "split",
     "children": [
       {
-        "id": "3d42647d64a7d862",
+        "id": "d5cbb45ea40cd302",
         "type": "tabs",
         "children": [
           {
-            "id": "9c211dfeccefac8e",
+            "id": "71afe698aedebd8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos.bandit/Bandit Level 21 → Level 22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28db96670dffaa8b",
+    "id": "d046b100f8b718e5",
     "type": "split",
     "children": [
       {
-        "id": "ccf1795e1c381f8b",
+        "id": "f652923c618b61e6",
         "type": "tabs",
         "children": [
           {
-            "id": "ea44954f805628e4",
+            "id": "b0442370dc2d8c46",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "48880fd50e249de0",
+            "id": "1f60277404b7c331",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "f78f27247d2caa34",
+            "id": "f9a732d90c71be2e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "036b5485beb27033",
+    "id": "2e0cd197c4674e68",
     "type": "split",
     "children": [
       {
-        "id": "d00304c91e32818c",
+        "id": "0097f8ff6a8afe25",
         "type": "tabs",
         "children": [
           {
-            "id": "0b26661d18dd7322",
+            "id": "bc6ef4fa4ebbf96e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos.bandit/Bandit Level 21 → Level 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "19905c3289e132f7",
+            "id": "a9c4c48a5b60a9a9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos.bandit/Bandit Level 21 → Level 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9bced486cb97690c",
+            "id": "7d57a67a88575895",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "6cadc4508b0ca76c",
+            "id": "99d55a0dbe917abe",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos.bandit/Bandit Level 21 → Level 22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,34 +138,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9c211dfeccefac8e",
-  "lastOpenFiles": [
-    "retos.bandit.zip",
-    "retos.bandit/Bandit Level 11 → Level 12.md",
-    "retos.bandit/Bandit Level 10 → Level 11.md",
-    "retos.bandit/Bandit Level 9 → Level 10.md",
-    "retos.bandit/Bandit Level 8 → Level 9.md",
-    "retos.bandit/Bandit Level 17 → Level 18.md",
-    "retos.bandit/Bandit Level 18 → Level 19.md",
-    "retos.bandit/Bandit Level 16 → Level 17.md",
-    "retos.bandit/Bandit Level 14 → Level 15.md",
-    "retos.bandit/Bandit Level 7 → Level 8.md",
-    "retos.bandit/Bandit Level 6 → Level 7.md",
-    "retos.bandit/Bandit Level 4 → Level 5.md",
-    "retos.bandit/Bandit Level 15 → Level 16.md",
-    "retos.bandit/Bandit Level 12 → Level 13.md",
-    "retos.bandit/Bandit Level 13 → Level 14.md",
-    "retos.bandit/Bandit Level 19 → Level 20.md",
-    "retos.bandit/Bandit Level 20 → Level 21.md",
-    "retos.bandit/Bandit Level 21 → Level 22.md",
-    "retos.bandit/Plantilla.md",
-    "retos.bandit/Bandit Level 3 → Level 4.md",
-    "retos.bandit/Bandit Level 1 → Level 2.md",
-    "retos.bandit/Bandit Level 0 → Level 1.md",
-    "retos.bandit/Bandit Level 5 → Level 6.md",
-    "retos.bandit/Bandit Level 2 → Level 3.md",
-    "README.md",
-    "retos.bandit/Bandit Level 0.md",
-    "retos.bandit"
-  ]
+  "active": "71afe698aedebd8d",
+  "lastOpenFiles": []
 }

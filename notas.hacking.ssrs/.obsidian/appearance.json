@@ -1,3 +1,4 @@
 {
-  "theme": "moonstone"
+  "theme": "system",
+  "accentColor": "#438c08"
 }
