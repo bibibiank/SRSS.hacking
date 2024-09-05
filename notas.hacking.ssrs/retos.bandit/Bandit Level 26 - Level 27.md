@@ -5,7 +5,8 @@ s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 ## Solución 
 
 
-**==Solución 1: conectándose con la llave==** 
+**==Solución 1: conectándose con la llave que obtuvimos en bandit25==**
+
 ``` bash 
 C:\Users\chair>ssh -i llavebandit25.txt bandit26@bandit.labs.overthewire.org -p2220`
  `_                     _ _ _   ___   __`
@@ -33,10 +34,13 @@ C:\Users\chair>ssh -i llavebandit25.txt bandit26@bandit.labs.overthewire.org -p2
 `upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 ```
 
-
+==**Solucion 2**==: ps con la contraseña s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 ## Notas Adicionales 
+
+antes de ingresar al nivel 26, debes hacer mas pequeña la terminal para que éste te lleve a "more"
 una vez que estamos en more, tecleamos "v" para ir al editor de vi, una vez dentro, tecleamos ESC, despues, ```bash
-:set shell = /bin/bash` luego `ESC : shell```
+:set shell = /bin/bash
+``` luego `ESC : shell
 
 
 ### Referencias

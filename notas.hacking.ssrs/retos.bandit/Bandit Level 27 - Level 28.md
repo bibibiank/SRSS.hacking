@@ -7,7 +7,8 @@ upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 ## Solución  
 
 
-`bandit27@bandit:~$ mktemp -d`
+```bash
+bandit27@bandit:~$ mktemp -d`
 `/tmp/tmp.x6FIeNE7Cr`
 `bandit27@bandit:~$ cd /tmp/tmp.x6FIeNE7Cr`
 `bandit27@bandit:/tmp/tmp.x6FIeNE7Cr$ git clone ssh://bandit27-git@localhos:2220t/home/bandit27-git/repo`
@@ -53,7 +54,8 @@ upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 `.git/   README`
 `bandit27@bandit:/tmp/tmp.x6FIeNE7Cr/repo$ cat README`
 `The password to the next level is: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN`
-`bandit27@bandit:/tmp/tmp.x6FIeNE7Cr/repo$`
+`bandit27@bandit:/tmp/tmp.x6FIeNE7Cr/repo$
+```
 
 ## Notas Adicionales 
 
