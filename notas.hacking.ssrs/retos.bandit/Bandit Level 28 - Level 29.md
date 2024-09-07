@@ -1,19 +1,10 @@
 ## Objetivo 
-There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/repo` via the port `2220`. The password for the user `bandit27-git` is the same as for the user `bandit27`.
+There is a git repository at `ssh://bandit28-git@localhost/home/bandit28-git/repo` via the port `2220`. The password for the user `bandit28-git` is the same as for the user `bandit28`.
 
 Clone the repository and find the password for the next level.
-
-## Commands you may need to solve this level
-
-git
-
 ## Datos de acceso al nivel 
 
- **bandit27**
-**upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB**
-
 ## Solución  
-
 
 ```bash
 bandit27@bandit:~$ mktemp -d`
@@ -64,7 +55,7 @@ bandit27@bandit:~$ mktemp -d`
 `The password to the next level is: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN`
 `bandit27@bandit:/tmp/tmp.x6FIeNE7Cr/repo$
 ```
-
 ## Notas Adicionales 
 
+git show - El comando se utiliza para ver los cambios de una confirmación específica.
 ### Referencias
