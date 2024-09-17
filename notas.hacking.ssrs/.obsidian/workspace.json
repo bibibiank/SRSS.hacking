@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos.bandit/Bandit Level 33 - Level 34.md",
+                "file": "picoCTF/Plantilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos.bandit/Bandit Level 33 - Level 34.md",
+                "file": "picoCTF/Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos.bandit/Bandit Level 33 - Level 34.md",
+                "file": "picoCTF/Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos.bandit/Bandit Level 33 - Level 34.md"
+                "file": "picoCTF/Plantilla.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "9c211dfeccefac8e",
   "lastOpenFiles": [
+    "retos.bandit/Plantilla 1.md",
+    "picoCTF/Plantilla.md",
+    "pico-.md",
+    "picoCTF",
+    "retos.bandit/Bandit Level 33 - Level 34.md",
     "retos.bandit/Bandit Level 32 - Level 33.md",
     "retos.bandit/Bandit Level 31 - Level 32.md",
     "retos.bandit/Bandit Level 30 - Level 31.md",
     "retos.bandit/Bandit Level 29 - Level 30.md",
     "retos.bandit/Bandit Level 26 - Level 27.md",
     "retos.bandit/Bandit Level 27 - Level 28.md",
-    "retos.bandit/Bandit Level 33 - Level 34.md",
     "retos.bandit/Bandit Level 28 - Level 29.md",
     "retos.bandit/Bandit Level 22→ Level 23.md",
     "retos.bandit/Bandit Level 23 - Level 24.md",
@@ -163,7 +167,6 @@
     "retos.bandit/Bandit Level 34 - Level 35.md",
     "retos.bandit/Plantilla.md",
     "retos.bandit/Sin título.md",
-    "Sin título.md",
     "retos.bandit/Bandit Level 21 → Level 22.md",
     "retos.bandit/Bandit Level 20 → Level 21.md",
     "retos.bandit/Bandit Level 19 → Level 20.md",
@@ -172,8 +175,6 @@
     "retos.bandit/Bandit Level 16 → Level 17.md",
     "retos.bandit/Bandit Level 15 → Level 16.md",
     "retos.bandit/Bandit Level 14 → Level 15.md",
-    "retos.bandit/Bandit Level 13 → Level 14.md",
-    "retos.bandit/Bandit Level 12 → Level 13.md",
     "retos.bandit.zip",
     "retos.bandit"
   ]

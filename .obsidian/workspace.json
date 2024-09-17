@@ -11,8 +11,12 @@
             "id": "71afe698aedebd8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2e0cd197c4674e68",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md"
+              }
             }
           }
         ]
@@ -139,5 +147,39 @@
     }
   },
   "active": "71afe698aedebd8d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Lets Warm Up.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Permissions.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Strings it.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Special.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Useless.md",
+    "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Serpentine.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/PW Crack 3.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Plumbing.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/What's a net cat.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Wave a flag.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Warmed Up.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Static ain't always noise.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Obedient Cat.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Nice netcat....md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/First Grep.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Bases.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/2 Warm.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Based.md",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/ASCII Numbers.md",
+    "{B5272365-DE97-4BDA-B316-175C499912F0}.png",
+    "{06221744-77BB-4F20-BF40-D88144D03173}.png",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Sin título.md",
+    "notas.hacking.ssrs/retos.bandit/Bandit Level 9 → Level 10.md",
+    "notas.hacking.ssrs/retos.bandit/Bandit Level 8 → Level 9.md",
+    "notas.hacking.ssrs/retos.bandit/Bandit Level 19 → Level 20.md",
+    "notas.hacking.ssrs/retos.bandit/Bandit Level 17 → Level 18.md",
+    "{6F134B52-9615-4335-AEF1-515543BA43E1}.png",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 1",
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 2"
+  ]
 }
