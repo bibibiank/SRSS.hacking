@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md",
+                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md",
+                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md",
+                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md"
+                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "71afe698aedebd8d",
   "lastOpenFiles": [
-    "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 1.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3/GET aHEAD.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3/Scavenger Hun.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P2/JaWT Scratchpad.md",
+    "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3",
+    "notas.hacking.ssrs/Sin nombre",
+    "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 1.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P2. biank.zip",
     "notas.hacking.ssrs/picoCTF/Retos Web P2.zip",
     "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 3.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P2/Sin título 3.md",
-    "notas.hacking.ssrs/picoCTF/Plantilla.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P1/Picobrowser.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P2",
     "notas.hacking.ssrs/picoCTF/Retos Web P1/Client-side-again.md",
@@ -175,8 +180,6 @@
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/PW Crack 3.md",
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Plumbing.md",
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/What's a net cat.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Wave a flag.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Warmed Up.md",
     "{B5272365-DE97-4BDA-B316-175C499912F0}.png",
     "{06221744-77BB-4F20-BF40-D88144D03173}.png",
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4",
