@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md"
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md"
               }
             }
           }
@@ -148,11 +148,26 @@
   },
   "active": "71afe698aedebd8d",
   "lastOpenFiles": [
-    "notas.hacking.ssrs/picoCTF/Retos Web P3/GET aHEAD.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P3/Scavenger Hun.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P2/JaWT Scratchpad.md",
+    "Pasted image 20241003155632.png",
+    "Pasted image 20241003155507.png",
+    "notas.hacking.ssrs/picoCTF/Forensic P1/So Meta.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P1/What Lies Within.md",
     "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P1/Glory of the Garden.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P1/extensions.md",
+    "Pasted image 20241003153132.png",
+    "Pasted image 20241003153118.png",
+    "notas.hacking.ssrs/picoCTF/Retos Web P4/SOAP.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P1",
+    "notas.hacking.ssrs/picoCTF/Retos Web P4/Most Cookies.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P4/Match the Regex.md",
+    "{D5605CBF-6DED-4100-8E5B-B4A9468DA2C3}.png",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3/GET aHEAD.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3/Scavenger Hun.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P4",
+    "notas.hacking.ssrs/picoCTF/Retos Web P3/Cookies.md",
+    "notas.hacking.ssrs/picoCTF/Retos Web P2/JaWT Scratchpad.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P2/Irish-Name-Repo 2.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P3",
     "notas.hacking.ssrs/Sin nombre",
@@ -171,21 +186,10 @@
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P1",
     "notas.hacking.ssrs/picoCTF/Re.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Lets Warm Up.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Permissions.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/Strings it.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Special.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Useless.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Serpentine.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/PW Crack 3.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Plumbing.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3/What's a net cat.md",
     "{B5272365-DE97-4BDA-B316-175C499912F0}.png",
     "{06221744-77BB-4F20-BF40-D88144D03173}.png",
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4",
     "{6F134B52-9615-4335-AEF1-515543BA43E1}.png",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 1",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 2"
+    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3"
   ]
 }
