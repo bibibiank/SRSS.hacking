@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P2/VER VIDEO whitepages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P2/VER VIDEO whitepages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P2/VER VIDEO whitepages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md"
+                "file": "notas.hacking.ssrs/picoCTF/Forensic P2/VER VIDEO whitepages.md"
               }
             }
           }
@@ -148,21 +148,31 @@
   },
   "active": "71afe698aedebd8d",
   "lastOpenFiles": [
+    "notas.hacking.ssrs/picoCTF/Forensic P2/c0rrupt.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P2/like1000.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P2/m00nwalk.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P2/shark on wire 2.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P2/VER VIDEO whitepages.md",
+    "Pasted image 20241008110711.png",
+    "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "{06221744-77BB-4F20-BF40-D88144D03173}.png",
+    "{B5272365-DE97-4BDA-B316-175C499912F0}.png",
+    "{D5605CBF-6DED-4100-8E5B-B4A9468DA2C3}.png",
+    "Pasted image 20241003153132.png",
+    "Pasted image 20241007114943.png",
+    "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
+    "notas.hacking.ssrs/picoCTF/Forensic P2",
     "Pasted image 20241003155632.png",
     "Pasted image 20241003155507.png",
     "notas.hacking.ssrs/picoCTF/Forensic P1/So Meta.md",
     "notas.hacking.ssrs/picoCTF/Forensic P1/What Lies Within.md",
-    "notas.hacking.ssrs/picoCTF/Plantilla.md",
-    "notas.hacking.ssrs/picoCTF/Forensic P1/shark on wire 1.md",
     "notas.hacking.ssrs/picoCTF/Forensic P1/Glory of the Garden.md",
     "notas.hacking.ssrs/picoCTF/Forensic P1/extensions.md",
-    "Pasted image 20241003153132.png",
     "Pasted image 20241003153118.png",
     "notas.hacking.ssrs/picoCTF/Retos Web P4/SOAP.md",
     "notas.hacking.ssrs/picoCTF/Forensic P1",
     "notas.hacking.ssrs/picoCTF/Retos Web P4/Most Cookies.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P4/Match the Regex.md",
-    "{D5605CBF-6DED-4100-8E5B-B4A9468DA2C3}.png",
     "notas.hacking.ssrs/picoCTF/Retos Web P3/GET aHEAD.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P3/Scavenger Hun.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P4",
@@ -180,16 +190,8 @@
     "notas.hacking.ssrs/picoCTF/Retos Web P2",
     "notas.hacking.ssrs/picoCTF/Retos Web P1/Client-side-again.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P1/Dont-use-client-side.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P1/Where are the robots.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P1/Insp3ct0r.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P1/Logon.md",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4/Chrono.md",
     "notas.hacking.ssrs/picoCTF/Retos Web P1",
-    "notas.hacking.ssrs/picoCTF/Re.md",
-    "{B5272365-DE97-4BDA-B316-175C499912F0}.png",
-    "{06221744-77BB-4F20-BF40-D88144D03173}.png",
     "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 4",
-    "{6F134B52-9615-4335-AEF1-515543BA43E1}.png",
-    "notas.hacking.ssrs/picoCTF/Parcial 01-Parte 3"
+    "{6F134B52-9615-4335-AEF1-515543BA43E1}.png"
   ]
 }
