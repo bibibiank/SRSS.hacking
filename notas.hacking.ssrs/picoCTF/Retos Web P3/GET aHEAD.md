@@ -22,7 +22,7 @@ Content-type: text/html; charset=UTF-8
 
                                                                                
 ┌──(kali㉿kali)-[~]
-└─$ curl -I HEAD  http://mercury.picoctf.net:53554/index.php
+###### └─$ curl -I HEAD  http://mercury.picoctf.net:53554/index.php
 curl: (6) Could not resolve host: HEAD
 HTTP/1.1 200 OK
 flag: picoCTF{r3j3ct_th3_du4l1ty_2e5ba39f}
@@ -46,3 +46,6 @@ se utiliza para realizar una solicitud HTTP y obtener solo los encabezados de la
 https://keepcoding.io/blog/que-es-burp-suite/
 
 
+
+
+=;
