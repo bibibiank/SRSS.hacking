@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71afe698aedebd8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas.hacking.ssrs/picoCTF/Crypto P1/la cifra de.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "la cifra de"
-            }
-          },
-          {
             "id": "596957428d6bab7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas.hacking.ssrs/CTF Metared ANUIES/Misc/Thermal Camera.md",
+                "file": "notas.hacking.ssrs/picoCTF/Crypto P2/rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thermal Camera"
+              "title": "rsa pop quiz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +164,14 @@
   },
   "active": "596957428d6bab7b",
   "lastOpenFiles": [
+    "notas.hacking.ssrs/picoCTF/Crypto P2/miniRSA.md",
+    "notas.hacking.ssrs/picoCTF/Crypto P2/b00tl3gRSA2.md",
+    "notas.hacking.ssrs/picoCTF/Crypto P2/rsa pop quiz.md",
+    "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "notas.hacking.ssrs/CTF Metared ANUIES/Misc/Thermal Camera.md",
+    "notas.hacking.ssrs/picoCTF/Crypto P2",
     "Pasted image 20241015123309[1].png",
     "notas.hacking.ssrs/CTF Metared ANUIES/Decode/Detail.md",
-    "notas.hacking.ssrs/CTF Metared ANUIES/Misc/Thermal Camera.md",
     "notas.hacking.ssrs/CTF Metared ANUIES/Misc",
     "notas.hacking.ssrs/CTF Metared ANUIES/Crypto/fancy cypher.md",
     "notas.hacking.ssrs/CTF Metared ANUIES/Crypto",
@@ -196,7 +186,6 @@
     "Pasted image 20241017213852.png",
     "notas.hacking.ssrs/picoCTF/Crypto P1/Caesar.md",
     "notas.hacking.ssrs/picoCTF/Crypto P1/13.md",
-    "notas.hacking.ssrs/picoCTF/Plantilla.md",
     "Pasted image 20241017115511.png",
     "notas.hacking.ssrs/picoCTF/Forensic P4/Milkslap.md",
     "notas.hacking.ssrs/picoCTF/Crypto P1",
@@ -211,19 +200,15 @@
     "notas.hacking.ssrs/picoCTF/Forensic P3/tunn3l v1s10n.md",
     "notas.hacking.ssrs/picoCTF/Forensic P3/Matryoshka doll.md",
     "notas.hacking.ssrs/picoCTF/Forensic P3/MacroHard WeakEdge.md",
-    "notas.hacking.ssrs/retos.bandit/Plantilla.md",
-    "notas.hacking.ssrs/picoCTF/Retos Web P3/GET aHEAD.md",
     "notas.hacking.ssrs/CTF Metared ANUIES/Network",
     "notas.hacking.ssrs/CTF Metared ANUIES/Web/Sin nombre",
     "notas.hacking.ssrs/CTF Metared ANUIES/Web",
     "notas.hacking.ssrs/CTF Metared ANUIES",
     "notas.hacking.ssrs/ss/Pasted image 20241008110711.png",
-    "notas.hacking.ssrs/picoCTF/Forensic P3",
     "notas.hacking.ssrs/ss/{06221744-77BB-4F20-BF40-D88144D03173}.png",
     "notas.hacking.ssrs/ss/{B5272365-DE97-4BDA-B316-175C499912F0}.png",
     "notas.hacking.ssrs/ss/{D5605CBF-6DED-4100-8E5B-B4A9468DA2C3}.png",
     "notas.hacking.ssrs/ss/Pasted image 20241003153132.png",
-    "notas.hacking.ssrs/ss/Pasted image 20241007114943.png",
-    "notas.hacking.ssrs/ss/Pasted image 20241003155632.png"
+    "notas.hacking.ssrs/ss/Pasted image 20241007114943.png"
   ]
 }
