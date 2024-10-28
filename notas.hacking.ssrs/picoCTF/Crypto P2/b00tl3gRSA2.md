@@ -33,6 +33,8 @@ Convertimos el texto dado en la pagina de CyberChef, From Hex
 ```java 
 picoCTF{bad_1d3a5_2438125}
 ```
+
+Bianca Delgado Chairez 7A
 ## Notas Adicionales 
 
 ### Referencias
