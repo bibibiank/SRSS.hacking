@@ -115,6 +115,10 @@ I+FejxNz7x4Fmzg=
 
 ```
 
+
+
+con ayuda de CSR decoder, econtramos la bandera con la certificacion
+![[Pasted image 20241104154957.png]]
 ## Notas Adicionales 
 
 ### Referencias
