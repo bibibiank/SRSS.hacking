@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas.hacking.ssrs/Examen P2/Parte 1 - Web 1/Power Cookie.md",
+                "file": "notas.hacking.ssrs/picoCTF/Reversing P2/timer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Cookie"
+              "title": "timer"
             }
           }
         ]
@@ -164,6 +164,22 @@
   },
   "active": "596957428d6bab7b",
   "lastOpenFiles": [
+    "notas.hacking.ssrs/picoCTF/Reversing P2/Safe Opener 2.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P2/Picker VI.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P2/Picker III.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P2/Picker II.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P2/Picker I.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P2/timer.md",
+    "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P1/vault-door-1.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P2",
+    "Pasted image 20241104132153.png",
+    "notas.hacking.ssrs/picoCTF/Reversing P1/vault-door-3.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P1/vault-door-5.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P1/vault-door-4.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P1/vault-door-training.md",
+    "notas.hacking.ssrs/Examen P2/Parte 1 - Web 1/Power Cookie.md",
+    "notas.hacking.ssrs/picoCTF/Reversing P1",
     "Pasted image 20241027183917.png",
     "Pasted image 20241027183914.png",
     "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1/MSB.md",
@@ -178,37 +194,21 @@
     "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/Lookey here.md",
     "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/Disk, disk, sleuth! II.md",
     "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/advanced-potion-making.md",
-    "notas.hacking.ssrs/picoCTF/Plantilla.md",
     "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1/PcapPoisoning.md",
     "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2",
     "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/who are you.md",
-    "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1/information.md",
-    "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/JavaCodeAnalysis.md",
-    "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1/enhance!.md",
-    "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1/eavesdrop.md",
-    "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/IntoToBurp.md",
     "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1",
-    "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/RobotoSans.md",
     "Pasted image 20241027011114.png",
     "Pasted image 20241027011028.png",
-    "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/login.md",
-    "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/Its my birthday.md",
-    "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2/caas.md",
-    "notas.hacking.ssrs/Examen P2/Parte 1 - Web 1/SQL Direct.md",
-    "notas.hacking.ssrs/Examen P2/Parte 1 - Web 1/Secrets.md",
     "Pasted image 20241027001823.png",
     "notas.hacking.ssrs/Examen P2/Parcial 02 - Parte 2 - Web 2/IntoToBurp",
     "notas.hacking.ssrs/Examen P2/Parte 2 - Web 2",
     "Pasted image 20241026231548.png",
     "Pasted image 20241026231534.png",
     "Pasted image 20241026224845.png",
-    "Pasted image 20241026223203.png",
-    "Pasted image 20241026223144.png",
     "notas.hacking.ssrs/Examen P2/Parte 1 - Web 1",
     "notas.hacking.ssrs/Examen P2",
     "notas.hacking.ssrs/picoCTF/Cypto P3",
-    "notas.hacking.ssrs/picoCTF/Crypto P2",
-    "notas.hacking.ssrs/CTF Metared ANUIES/Misc",
-    "notas.hacking.ssrs/CTF Metared ANUIES/Crypto"
+    "notas.hacking.ssrs/picoCTF/Crypto P2"
   ]
 }
