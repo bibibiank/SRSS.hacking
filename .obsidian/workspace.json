@@ -11,12 +11,14 @@
             "id": "596957428d6bab7b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notas.hacking.ssrs/ss/Imagen de WhatsApp 2024-10-16 a las 12.28.04_4e37daea.jpg"
+                "file": "notas.hacking.ssrs/picoCTF/Reversing/Reversing P3/asm3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Imagen de WhatsApp 2024-10-16 a las 12.28.04_4e37daea"
+              "icon": "lucide-file",
+              "title": "asm3"
             }
           },
           {
@@ -174,6 +176,13 @@
   },
   "active": "596957428d6bab7b",
   "lastOpenFiles": [
+    "notas.hacking.ssrs/picoCTF/Reversing/Reversing P3/asm2.md",
+    "notas.hacking.ssrs/picoCTF/Reversing/Reversing P3/asm1.md",
+    "notas.hacking.ssrs/picoCTF/Reversing/Reversing P3/asm3.md",
+    "notas.hacking.ssrs/picoCTF/Plantilla.md",
+    "notas.hacking.ssrs/ss/Imagen de WhatsApp 2024-10-16 a las 12.28.04_4e37daea.jpg",
+    "notas.hacking.ssrs/picoCTF/Reversing/Reversing P3",
+    "notas.hacking.ssrs/picoCTF/Sin nombre",
     "notas.hacking.ssrs/Examen P1",
     "notas.hacking.ssrs/Examen P1/Parte 1/BinHexa.md",
     "notas.hacking.ssrs/picoCTF/Web",
@@ -191,7 +200,6 @@
     "notas.hacking.ssrs/picoCTF/Reversing/Reversing P2/Picker III.md",
     "notas.hacking.ssrs/picoCTF/Reversing/Reversing P2/Picker II.md",
     "notas.hacking.ssrs/picoCTF/Reversing/Reversing P2/Picker I.md",
-    "notas.hacking.ssrs/picoCTF/Plantilla.md",
     "notas.hacking.ssrs/picoCTF/Reversing/Reversing P1/vault-door-1.md",
     "notas.hacking.ssrs/picoCTF/Reversing/Reversing P2",
     "notas.hacking.ssrs/ss/Pasted image 20241104132153.png",
@@ -210,15 +218,9 @@
     "notas.hacking.ssrs/ss/Pasted image 20241027035446.png",
     "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/Wireshark woo twooo two twoo....md",
     "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/St3go.md",
-    "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/Redaction gone wrong.md",
-    "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2/Pitter Patter Platters.md",
-    "notas.hacking.ssrs/Examen P2/Parte 4 - Forensic 2",
-    "notas.hacking.ssrs/Examen P2/Parte 3 - Forensic 1",
     "notas.hacking.ssrs/ss/Pasted image 20241027011114.png",
     "notas.hacking.ssrs/ss/Pasted image 20241027011028.png",
     "notas.hacking.ssrs/ss/Pasted image 20241027001823.png",
-    "notas.hacking.ssrs/Examen P2/Parcial 02 - Parte 2 - Web 2/IntoToBurp",
-    "notas.hacking.ssrs/ss/Pasted image 20241026231548.png",
-    "notas.hacking.ssrs/ss/Pasted image 20241026231534.png"
+    "notas.hacking.ssrs/ss/Pasted image 20241026231548.png"
   ]
 }
